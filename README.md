@@ -37,3 +37,10 @@ If you are running manually, ensure you include the required dependencies in you
   javac -cp ".;mysql-connector-j-9.3.0.jar;HikariCP-5.1.0.jar;slf4j-api-2.0.17.jar;slf4j-simple-2.0.17.jar;local-database-module-1.0.0.jar" -d bin *.java
   java -cp ".;bin;mysql-connector-j-9.3.0.jar;HikariCP-5.1.0.jar;slf4j-api-2.0.17.jar;slf4j-simple-2.0.17.jar;local-database-module-1.0.0.jar" SalesManagementSystem
   ```
+
+👥 Team
+
+Namratha A 
+Dhatri P Sriram
+Harshini H
+Bhumika L
